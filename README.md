@@ -31,7 +31,6 @@ console.log('should be nine:', testResult);
 
 ## First Assignment
   - nolink
-  - https://gist.github.com/anonymous/4b9114dcefd077ad62a6554185733313
 
 ```js
 function filter(array, fn){
@@ -50,8 +49,10 @@ var evenNumbers = filter(testArr1, function(values){
 console.log('This Should be [2, 4]:', evenNumbers);
 ```
 
-answer:
-  1. this is the first solution I came up with https://repl.it/COqm
+answer
+  1. this is the first solution I came up with:
+   	- see on repl.it https://repl.it/COqm
+   	- see on github gist https://gist.github.com/anonymous/4b9114dcefd077ad62a6554185733313
   2. this one I experiment using forEach https://repl.it/COsg
   3. also forEach but cleaner https://repl.it/COsg/1
 
