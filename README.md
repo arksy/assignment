@@ -49,12 +49,13 @@ var evenNumbers = filter(testArr1, function(values){
 console.log('This Should be [2, 4]:', evenNumbers);
 ```
 
-answer
+Answers:
   1. this is the first solution I came up with:
-   	- see on repl.it https://repl.it/COqm
-   	- see on github gist https://gist.github.com/anonymous/4b9114dcefd077ad62a6554185733313
-  2. this one I experiment using forEach https://repl.it/COsg
-  3. also forEach but cleaner https://repl.it/COsg/1
+   	- see on repl.it [COqm/0](https://repl.it/COqm) or gist [COqm-0](https://gist.github.com/anonymous/4b9114dcefd077ad62a6554185733313)
+  2. this one I experiment using forEach
+  	- repl.it [COsg/0](https://repl.it/COsg) or gist [COsg-0](https://gist.github.com/arksy/29cd695da293f3aee47a7a4a9f1d5ddf)
+  3. also forEach but cleaner
+  	- repl.it [COsg/1](https://repl.it/COsg/1) or gist [COsg-1](https://gist.github.com/arksy/f18f6f47545c75c5f8ffdb12722f8904)
 
 ## Second Assignment
   - https://repl.it/CPwy
@@ -74,10 +75,16 @@ function getItemsByID(items) {
 }
 ```
 
-answer:
-  1. First confused why this doesn't work https://repl.it/CPwy/1 ps:I forgot to give paramater
-  2. Same as the first one but try a var https://repl.it/CPwy/2
-  3. Final answer https://repl.it/CPwy/3
+Answers:
+  1. First confused why this doesn't work
+  	- repl.it [CPwy/1](https://repl.it/CPwy/1) or gist [CPwy-1](https://gist.github.com/arksy/e238b84fecd4b42d5148ca3b4dfb7576) <== this one I forgot to input function call parameter, that's why I confused.
+  2. Same as the first one but I try using a var
+  	- repl.it [CPwy/2](https://repl.it/CPwy/2) or gist [CPwy-2](https://gist.github.com/arksy/4e08c990db652ce8ec06bed6a672ec4e)
+  3. Final answer
+  	- repl.it [CPwy/3](https://repl.it/CPwy/3) or gist [CPwy-3](https://gist.github.com/arksy/b50e3d9a442a45cd09a26cec83366b4e)
+
+most repl.it session are cloned in gist.github
+https://gist.github.com/arksy
 
 ## License
 github told me to make license, this reminds me to make it later.
