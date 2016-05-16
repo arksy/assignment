@@ -50,6 +50,11 @@ var evenNumbers = filter(testArr1, function(values){
 console.log('This Should be [2, 4]:', evenNumbers);
 ```
 
+answer:
+  1. this is the first solution I came up with https://repl.it/COqm
+  2. this one I experiment using forEach https://repl.it/COsg
+  3. also forEach but cleaner https://repl.it/COsg/1
+
 ## Second Assignment
   - https://repl.it/CPwy
 
@@ -67,6 +72,11 @@ function getItemsByID(items) {
 	return itemsByID;
 }
 ```
+
+answer:
+  1. First confused why this doesn't work https://repl.it/CPwy/1 ps:I forgot to give paramater
+  2. Same as the first one but try a var https://repl.it/CPwy/2
+  3. Final answer https://repl.it/CPwy/3
 
 ## License
 github told me to make license, this reminds me to make it later.
